@@ -1,0 +1,12 @@
+{% include base_path %}
+
+<li class="talk-list-item">
+  <p class="archive__item-title">
+    {% if post.link %}
+      <a href="{{ post.link }}">{{ post.title }}</a>
+    {% else %}
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    {% endif %}
+  </p>
+  <p class="page__meta">{{ post.location }}, {{ post.date | date: "%B %-d, %Y" }}</p>
+</li>

@@ -1,7 +1,7 @@
 ---
 title: "Physics-Driven Digital Humans: From Capture to Animation"
 collection: teaching
-type: "Invited Talk, SCA Graduate School"
+type: "Course, SCA Graduate School"
 permalink: /teaching/2026-sca-grad-school
 venue: "ACM SIGGRAPH/Eurographics Symposium on Computer Animation (SCA)"
 date: 2026-07-08

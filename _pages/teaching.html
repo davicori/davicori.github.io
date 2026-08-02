@@ -10,3 +10,12 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% if site.talks.size > 0 %}
+<h2>Talks</h2><hr />
+<ul>
+{% for post in site.talks reversed %}
+  {% include talk-list-item.html %}
+{% endfor %}
+</ul>
+{% endif %}

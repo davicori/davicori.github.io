@@ -17,13 +17,17 @@ Education
 
 Experience
 ======
+* **Align Technology**, May 2024 - In Progress <br>
+_PhD Collaboration, Zurich_
+
 * **3Lateral, Epic Games**, October 2023 - April 2024 <br>
 _Research Intern, Munich_
 
 * **Computational Robotics Laboratory**, October 2022 - February 2023, May 2023 <br>
 _Research Assistant, Zurich_
 
-<!-- * **Disney Research**, July - October 2022 <br> _Student Project, Zurich_ -->
+* **Disney Research**, July 2022 - October 2022 <br> 
+_Student Project, Zurich_
   
 Languages
 ======
